@@ -20,9 +20,10 @@ int main(){
 
 //The + operator can be used between strings to add them together to make a new string. This is called concatenation
 
-/**1.find()	Returns the index (position) of the first occurrence of a string or character
-2.rfind()	Returns the index (position) of the last occurrence of a string or character
-3.replace()	Replaces a part of a string with another string
-4.insert()	Inserts a string at a specified index (position)
-5.erase()	Removes characters from a string
-6.compare()	Compares two strings*/
+/**
+ *  1.find()  1st occurrence of a string or     character
+    2.rfind()	Returns the index (position) of the last occurrence of a string or character
+    3.replace()	Replaces a part of a string with another string
+    4.insert()	Inserts a string at a specified index (position)
+    5.erase()	Removes characters from a string
+    6.compare()	Compares two strings*/
